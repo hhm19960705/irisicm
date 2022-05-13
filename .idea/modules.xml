@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/irisicm.iml" filepath="$PROJECT_DIR$/irisicm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irisicm-common/irisicm-common.iml" filepath="$PROJECT_DIR$/irisicm-common/irisicm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irisicm-core/irisicm-core.iml" filepath="$PROJECT_DIR$/irisicm-core/irisicm-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irisicm-core/irisicm-dao/irisicm-dao.iml" filepath="$PROJECT_DIR$/irisicm-core/irisicm-dao/irisicm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irisicm-core/irisicm-service/irisicm-service.iml" filepath="$PROJECT_DIR$/irisicm-core/irisicm-service/irisicm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/irisicm-web/irisicm-web.iml" filepath="$PROJECT_DIR$/irisicm-web/irisicm-web.iml" />
+    </modules>
+  </component>
+</project>
